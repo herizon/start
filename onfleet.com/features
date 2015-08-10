@@ -1,0 +1,298 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Features</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+        <link rel="shortcut icon" href="https://d1er272rpp2pqg.cloudfront.net/961df939/favicon.ico" type="image/x-icon" />
+
+        
+            <meta name="description" content="Real-time driver tracking, anonymized SMS and voice, robust analytics, a powerful web dashboard and API - Onfleet has your delivery business covered">
+        
+
+        
+            <!-- Twitter card -->
+            <meta name="twitter:card" content="summary_large_image">
+            <meta name="twitter:site" content="@onfleet">
+            <meta name="twitter:title" content="Features">
+            <meta name="twitter:description" content="Delightful delivery management. Local deliveries are complicated enough. Your software doesn’t need to be.">
+            <meta name="twitter:image:src" content="https://onfleet-main.s3.amazonaws.com/images/twitterCard.png">
+
+            <!-- Facebook Opengraph -->
+            <meta property="og:image" content="https://onfleet-main.s3.amazonaws.com/images/twitterCard.png"/>
+            <meta property="og:type" content="website"/>
+            <meta property="og:site_name" content="Onfleet"/>
+            <meta property="og:title" content="Features"/>
+            
+                <meta property="og:url" content="https://onfleet.com/features"/>
+            
+        
+
+        <base href="https://d1er272rpp2pqg.cloudfront.net/961df939/"><!--[if IE]></base><![endif]-->
+
+        
+            <link rel="stylesheet" href="styles/features.css">
+        
+
+        <script type="text/javascript">
+            window.__addy = {"config":{"serverPath":"https://onfleet.com","apiServer":"https://onfleet.com/api/","apiServerStreaming":"wss://onfleet.com/stream"},"context":{"assetsBase":"https://d1er272rpp2pqg.cloudfront.net/961df939","mode":"production","location":"remote","deploymentId":"961df939","language":"en","direction":"ltr"},"session":{},"isLoggedIn":false,"subTemplate":"features.html","stylesheets":["features.css"],"title":"Features","requireJsMain":"features","includeSocialMeta":true,"canonicalUrl":"https://onfleet.com/features","metaDescription":"Real-time driver tracking, anonymized SMS and voice, robust analytics, a powerful web dashboard and API - Onfleet has your delivery business covered"};
+        </script>
+
+        
+        <!-- Start Visual Website Optimizer Asynchronous Code -->
+        <script type='text/javascript'>
+        var _vwo_code=(function(){
+        var account_id=180185,
+        settings_tolerance=2000,
+        library_tolerance=2500,
+        use_existing_jquery=false,
+        // DO NOT EDIT BELOW THIS LINE
+        f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+        </script>
+        <!-- End Visual Website Optimizer Asynchronous Code -->
+        
+    </head>
+    <body>
+        <div class="mobileMenuOverlay">
+    <nav class="mobileMenu animated">
+        <div class="list">
+            <ul>
+                <!--Product-->
+                <li class="header">Product</li>
+                <li><div class="getAccess">Request Demo</div></li>
+                <li><a href="https://onfleet.com/features">Features</a></li>
+                <li><a href="http://docs.onfleet.com">API</a></li>
+                <li><a href="https://onfleet.com/pricing">Pricing</a></li>
+                <!--Company-->
+                <li class="header">Company</li>
+                <li><a href="https://onfleet.com/company">About</a></li>
+                <li><a href="https://onfleet.com/customers">Customers</a></li>
+                <li><a href="https://onfleet.com/careers">Careers</a></li>
+                <!--li><a href="http://blog.onfleet.com">Blog</a></li-->
+                <li><a href="mailto:contact@onfleet.com">Contact</a></li>
+                <!--Support-->
+                <li class="header">Support</li>
+                <li><a href="http://support.onfleet.com/hc" target="_blank">Support Center</a></li>
+                <li><a href="http://status.onfleet.com" target="_blank">System Status</a></li>
+                <li><a href="https://onfleet.com/terms">Terms</a></li>
+                <li><a href="https://onfleet.com/privacy">Privacy Policy</a></li>
+                <!--Connect-->
+                <li class="header">Connect</li>
+                <li><a href="https://twitter.com/onfleet" target="_blank">Twitter</a></li>
+                <li><a href="mailto:contact@onfleet.com">Email</a></li>
+                <li><a href="https://fb.com/onfleetapp" target="_blank">Facebook</a></li>
+                <!--li><a href="https://onfleet.com/#">LinkedIn</a></li-->
+                <!--li><a href="https://onfleet.com/#">Google+</a></li-->
+                <!--li><a href="https://onfleet.com/#">YouTube</a></li-->
+            </ul>
+        </div>
+        <div class="arrow"></div>
+    </nav>
+</div>
+
+
+<div class="contactFormOverlay">
+    <form class="requestInvite">
+        <div class="mobileButton cancel">Cancel</div>
+        <div class="mobileButton submit">Submit<div class="activityIndicator"></div></div>
+        <div class="formFields">
+            <div class="title">Request Demo</div>
+            <div class="caption">Submit your information below to request a demo of Onfleet. If you want to join an existing organization, please contact your administrator.</div>
+            <div class="fieldGroup">
+                <input name="fname" type="text" class="halfWidth" placeholder="First Name" spellcheck="false" data-required>
+                <input name="lname" type="text" class="halfWidth" placeholder="Last Name" spellcheck="false" data-required>
+                <input name="company" type="text" placeholder="Company" data-required>
+                <input name="website" type="text" placeholder="Company Website" data-required>
+            </div>
+            <div class="fieldGroup">
+                <input name="email" type="email" placeholder="Work Email" data-required="email">
+                <input name="phone" type="tel" placeholder="Phone Number" data-required="phone">
+            </div>
+            <div class="fieldGroup">
+                <textarea name="message" placeholder="Message"></textarea>
+            </div>
+            <div class="desktopButton submit">Submit<div class="activityIndicator"></div></div>
+        </div>
+        <div class="success">
+            <div class="icon"></div>
+            <div class="title">Request Sent</div>
+            <div class="caption">Thanks for requesting an invite for Onfleet! We'll be in touch as soon as it's ready for you.</div>
+            <div class="caption socialMedia">Follow us for more updates</div>
+            <div class="socialLinks">
+                <a rel="nofollow" href="https://twitter.com/onfleet" target="_blank" class="socialMedia twitter"></a>
+                <a rel="nofollow" href="https://fb.com/onfleetapp" target="_blank" class="socialMedia facebook"></a>
+            </div>
+        </div>
+        <input type="submit" style="display: none">
+    </form>
+</div>
+
+
+
+<div class="rootContainer">
+    <!--Hero-->
+    <section class="hero darkGray">
+        <!--Navigation-->
+        <nav class="siteNav">
+    <a class="home" href="https://onfleet.com" title="Onfleet"></a>
+    <ul>
+        <li><a href="https://onfleet.com/features">Features</a></li>
+        <li><a href="http://support.onfleet.com/hc">Support</a></li>
+        <li><a href="mailto:contact@onfleet.com">Contact</a></li>
+        
+            <li><a href="https://onfleet.com/login" class="button skeleton blue">Log In</a></li>
+        
+    </ul>
+    <a rel="nofollow" href="https://onfleet.com/#" class="mobileNav"></a>
+</nav>
+
+
+        <div class="columnContainer">
+            <div class="copy">
+                <h1>Powerful tools for every step of your deliveries</h1>
+                <p>Say hello to leaner operations, smoother customer experience and smarter decisions.</p>
+            </div>
+
+            <div class="screenshots">
+                <div class="desktop">
+                    <div class="screen"></div>
+                </div>
+                <div class="android">
+                    <div class="screen"></div>
+                </div>
+                <div class="ios">
+                    <div class="screen"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--Sub-Navigation-->
+    <nav class="subNavigation">
+        <div class="links clearFloat">
+            <ul>
+                <li><a href="https://onfleet.com/features#manage" class="manage" animate-scroll>Manage</a></li>
+                <li><a href="https://onfleet.com/features#drivers" class="drivers" animate-scroll>Drivers</a></li>
+                <li><a href="https://onfleet.com/features#customers" class="customers" animate-scroll>Customers</a></li>
+                <li><a href="https://onfleet.com/features#analytics" class="analytics" animate-scroll>Analytics</a></li>
+                <li><a href="https://onfleet.com/features#api" class="api" animate-scroll>API</a></li>
+            </ul>
+            <a rel="nofollow" href='#' contact-form="requestAccess" class="button blue requestInvite">Request Demo</a>
+            <div class="keyline"></div>
+        </div>
+    </nav>
+
+    <!--Manage-->
+    <section class="manage white" id="manage">
+        <div class="copy center">
+            <h1>Do more in less time</h1>
+        </div>
+        <div class="device laptop">
+            <div class="screen">
+                <div class="stage overview">
+                    <div class="worker blue derrickThornton"></div>
+                    <div class="worker blue gregCrane"></div>
+                    <div class="worker yellow calvinHerschell"></div>
+                    <div class="worker green brianSchmitt"></div>
+                    <div class="worker green kenFowler"></div>
+                    <div class="tooltip assigned"></div>
+                    <div class="tooltip delayed"></div>
+                    <div class="sidebar"></div>
+                    <div class="toolbar"></div>
+                    <div class="filtersModal"></div>
+                </div>
+            </div>
+        </div>
+        <aside class="annotations horizontal">
+            <div class="keyline"></div>
+            <a rel="nofollow" href="#" class="selected" scene="overview">
+                <div class="icon route"></div>
+                <h2>Everything in one place</h2>
+                <p>No more spreadsheets or frantic calls. Consolidate your operations into one beautiful, intuitive dashboard.</p>
+            </a>
+            <a rel="nofollow" href="#" scene="filters">
+                <div class="icon filters"></div>
+                <h2>Cut through the noise</h2>
+                <p>Delivery operations can be chaotic. Focus on what's important with color-coded statuses, comprehensive filters and dynamic search.</p>
+            </a>
+            <a rel="nofollow" href="#" scene="delayed">
+                <div class="icon warning"></div>
+                <h2>Predict the future</h2>
+                <p>Put out fires before they start. Stay proactive with accurate ETAs and real-time alerts.</p>
+            </a>
+        </aside>
+    </section>
+
+    <!--Drivers-->
+    <section class="drivers white" id="drivers">
+        <div class="copy center">
+            <h1>An app drivers love</h1>
+        </div>
+        <div class="columnContainer">
+            <div class="device phone">
+                <div class="screen">
+                    <div class="stage taskList">
+                        <div class="navContainer">
+                            <div class="view taskList">
+                                <div class="driverIcon"></div>
+                            </div>
+                            <div class="view taskDetails">
+                                <div class="sliderLabel">
+                                    <div class="shimmer"></div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="contactSheet"></div>
+                        <div class="view receipt">
+                            <div class="cursor"></div>
+                        </div>
+                        <div class="statusBar"></div>
+                        <div class="keyboard"></div>
+                    </div>
+                </div>
+            </div>
+            <aside class="annotations vertical">
+                <div class="keyline"></div>
+                <a rel="nofollow" href="#" class="selected" scene="taskList">
+                    <div class="icon list"></div>
+                    <h2>One tap, one swipe</h2>
+                    <p>The simple, intuitive interface makes it easy to complete deliveries so drivers keep their hands on the wheel and eyes on the road.</p>
+                </a>
+                <a rel="nofollow" href="#" scene="taskDetails">
+                    <div class="icon navigation"></div>
+                    <h2>Convenience and confidence</h2>
+                    <p>Delivery details are always up to date. Access customer info, order details and navigation from one screen.</p>
+                </a>
+                <a rel="nofollow" href="#" scene="contactSheet">
+                    <div class="icon phone"></div>
+                    <h2>Simple and secure communication</h2>
+                    <p>With just two taps, drivers can communicate with customers. Anonymized phone numbers keep calls and messages private.</p>
+                </a>
+                <a rel="nofollow" href="#" scene="receipt">
+                    <div class="icon signature"></div>
+                    <h2>Proof of delivery is a breeze</h2>
+                    <p>Photos, signatures and notes can be collected from the field and accessed instantly in the dashboard or via the Onfleet API.</p>
+                </a>
+            </aside>
+        </div>
+    </section>
+
+    <!--Customers-->
+    <section class="customers white" id="customers">
+        <div class="copy center">
+            <h1>Delight your customers</h1>
+        </div>
+        <div class="columnContainer">
+            <aside class="annotations vertical">
+                <div class="keyline"></div>
+                <a rel="nofollow" href="#" class="selected" scene="notifications">
+                    <div class="icon message"></div>
+                    <h2>Seamless, from start to finish</h2>
+                    <p>Customizable SMS notifications are sent automatically to let customers know when a delivery has started, when it should be expected and when it's arriving.</p>
+                </a>
+                <a rel="nofollow" href="#" scene="tracking">
+                    <div class="icon location"></div>
+                    <h2>No more guessing</h2>
+                    <p>Real-time driver tracking makes it fun and easy for customers 
